@@ -127,3 +127,6 @@
 [submodule "logstash_forwarder"]
 	path = logstash_forwarder
 	url = https://github.com/zeroXten/logstash_forwarder.git
+[submodule "sensu_spec"]
+	path = sensu_spec
+	url = https://github.com/zeroXten/sensu_spec.git
