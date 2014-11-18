@@ -130,3 +130,6 @@
 [submodule "sensu_spec"]
 	path = sensu_spec
 	url = https://github.com/zeroXten/sensu_spec.git
+[submodule "sensu-chef"]
+	path = sensu-chef
+	url = https://github.com/sensu/sensu-chef.git
