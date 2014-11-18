@@ -133,3 +133,6 @@
 [submodule "sensu"]
 	path = sensu
 	url = https://github.com/sensu/sensu-chef.git
+[submodule "ulimit"]
+	path = ulimit
+	url = https://github.com/bmhatfield/chef-ulimit.git
